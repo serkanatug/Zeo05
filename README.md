@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Serkan Atuğ</h1>
-<h3 align="center">A Passionate Frontend Developer from Turkey</h3>
+<h1 align="center">👋 Merhaba, Ben Serkan Atuğ!</h1>
+<h3 align="center">Türkiye'den Tutkulu Bir Frontend Geliştirici</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/1i6I0rHpM2MNSrY4PH/giphy.gif" alt="Hello" width="200"/>
@@ -7,23 +7,23 @@
 
 <p align="center">
   <em>
-    "Coding is not just a job, it's a passion!" 
+    "Kodlama sadece bir iş değil, bir tutku!" 
   </em>
 </p>
 
-- 🔭 I’m currently working on [LavanderProjects](https://github.com/LavanderProjects)
-- 🌱 I’m currently learning **Python, PHP**
-- 💬 Ask me about **HTML, CSS**
-- 📫 How to reach me: [serkanatugxl3547@gmail.com](mailto:serkanatugxl3547@gmail.com)
+- 🔭 Şu anda [LavanderProjects](https://github.com/LavanderProjects) üzerinde çalışıyorum.
+- 🌱 Şu anda **Python, PHP** öğreniyorum.
+- 💬 **HTML, CSS** hakkında sorular sorabilirsiniz.
+- 📫 Bana ulaşmak için: [serkanatugxl3547@gmail.com](mailto:serkanatugxl3547@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Benimle Bağlantı Kurun:</h3>
 <p align="left">
   <a href="https://instagram.com/serkanatgg35/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serkanatgg35" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Kullandığım Diller ve Araçlar:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -45,10 +45,10 @@
   </a>
 </p>
 
-<h3 align="left">Academic Background:</h3>
+<h3 align="left">Akademik Geçmiş:</h3>
 <p align="left">
   <ul>
-    <li>Bachelor's Degree in Computer Science, XYZ University</li>
-    <li>Frontend Development Certification, ABC Institute</li>
+    <li>Bilgisayar Bilimleri Lisans Diploması, XYZ Üniversitesi</li>
+    <li>Frontend Geliştirme Sertifikası, ABC Enstitüsü</li>
   </ul>
 </p>
