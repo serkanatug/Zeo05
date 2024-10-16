@@ -48,7 +48,7 @@
 <h3 align="left">Akademik Geçmiş:</h3>
 <p align="left">
   <ul>
-    <li>Bilgisayar Bilimleri Lisans Diploması, XYZ Üniversitesi</li>
-    <li>Frontend Geliştirme Sertifikası, ABC Enstitüsü</li>
+    <li>Bilişim Teknolojileri, Selçuk Yaşar Boyacılık Mesleki ve Teknik Anadolu Lisesi.</li>
+    <li>Bilgisayar Programlama, Afyon Kocatepe Üniversitesi<a href="https://aku.edu.tr//" target="blank"></li>
   </ul>
 </p>
