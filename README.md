@@ -43,8 +43,8 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.python.org/community/logos/python-logo-generic.svg" alt="Python" width="40" height="40"/> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 <h3 align="left">Akademik Geçmiş:</h3>
 <p align="left">
   <ul>
-    <li>Bilgisayar Bilimleri Lisans Diploması, XYZ Üniversitesi</li>
-    <li>Frontend Geliştirme Sertifikası, ABC Enstitüsü</li>
+    <li>Bilişim Teknolojileri,  Selçuk Yaşar Boyacılık Mesleki ve Teknik Anadolu Lisesi.</li>
+    <li>Bilgisayar Programcılığı, Afyon Kocatepe Universty</li>
   </ul>
 </p>
