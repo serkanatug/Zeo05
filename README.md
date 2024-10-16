@@ -11,14 +11,14 @@
   </em>
 </p>
 
-- 🔭 Şu anda [LavanderProjects](https://github.com/LavanderProjects) üzerinde çalışıyorum.
+- 🔭 Şu anda [Python  üzerinde çalışıyorum.]
 - 🌱 Şu anda **Python, PHP** öğreniyorum.
 - 💬 **HTML, CSS** hakkında sorular sorabilirsiniz.
 - 📫 Bana ulaşmak için: [serkanatugxl3547@gmail.com](mailto:serkanatugxl3547@gmail.com)
 
 <h3 align="left">Benimle Bağlantı Kurun:</h3>
 <p align="left">
-  <a href="https://instagram.com/serkanatgg35/" target="blank">
+  <a href="https://instagram.com/sserkkan35/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serkanatgg35" height="30" width="40" />
   </a>
 </p>
