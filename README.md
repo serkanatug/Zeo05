@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/m1WkK4vNBc1Jr16sFh" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/m1WkK4vNBc1Jr16sFh">via GIPHY</a></p>
+<p align="center">
+  <img src="https://giphy.com/embed/m1WkK4vNBc1Jr16sFh" alt="Hello" width="200"/>
+</p>
 <h3 align="center">Türkiye'den Tutkulu Bir Frontend Geliştirici</h3>
 
 <p align="center">
