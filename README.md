@@ -49,6 +49,6 @@
 <p align="left">
   <ul>
     <li>Bilişim Teknolojileri, Selçuk Yaşar Boyacılık Mesleki ve Teknik Anadolu Lisesi.</li>
-    <li>Bilgisayar Programlama, Afyon Kocatepe Üniversitesi<a href="https://aku.edu.tr//" target="blank"></li>
+    <li><a href="https://aku.edu.tr//" target="blank">Bilgisayar Programlama, Afyon Kocatepe Üniversitesi</a></li>
   </ul>
 </p>
