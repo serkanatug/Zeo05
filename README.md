@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://giphy.com/embed/m1WkK4vNBc1Jr16sFh](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJpc3k1eDNraGxnNnJyajUwNGxvcTE4Z2JrdXJleGQ1MW5yY3MwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m1WkK4vNBc1Jr16sFh/giphy.webp)" alt="Hello" width="200"/>
+Merhaba Ben Serkan Atuğ
 </p>
 <h3 align="center">Türkiye'den Tutkulu Bir Frontend Geliştirici</h3>
 
