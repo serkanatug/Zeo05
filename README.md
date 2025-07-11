@@ -1,7 +1,7 @@
 # 👋 Merhaba, Ben Serkan Atuğ
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Python+%26+PHP+%C3%96%C4%9Freniyorum;HTML+%26+CSS+Uzman%C4%B1;Kodlama+Tutkusu!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+%26+Modern+Web;HTML+%26+CSS+Uzman%C4%B1;Kodlama+Tutkusu!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,8 +15,8 @@ const serkan = {
     location: "Türkiye 🇹🇷",
     role: "Frontend Developer",
     passion: "Kodlama sadece bir iş değil, bir tutku!",
-    currentFocus: ["Python", "PHP", "Web Development"],
-    askMeAbout: ["HTML", "CSS", "JavaScript", "Frontend"],
+    currentFocus: ["React.js", "Modern Web Development", "JavaScript"],
+    askMeAbout: ["HTML", "CSS", "JavaScript", "React.js", "Frontend"],
     funFact: "Kod yazarken kahve içmeyi severim ☕"
 };
 ```
@@ -34,6 +34,7 @@ const serkan = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🔧 Backend & Database
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
